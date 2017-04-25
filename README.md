@@ -8,4 +8,12 @@ Matches are scheduled Monday through Friday nights each week of a season. Active
 
 ### Team Schedules
 
-Teams are matched by rating and time available. [Team's can manage their preferred schedules here.](account_team_schedule_path)Currently, Chair League requires teams to select at least 3 days of the week they would prefer to play on. This is so we can guarantee there is a time both teams would be willing to play at.
+Teams are matched by rating and time available. [Team's can manage their preferred schedules here.](account_team_schedule_path) Currently, Chair League requires teams to select at least 3 days of the week they would prefer to play on. This is so we can guarantee there is a time both teams would be willing to play at.
+      
+### Team Timezones
+
+Teams select timezones to play at. By default, timezones for all teams are Central Time. Timezones are used for both recruiting players and matchmaking.
+
+- **Select Eeastern Time** if you want to play earlier in the night. (EST, INDIANA)
+- **Select Central Time** if you want to play in the middle of the night.
+- **Select Pacific Time** if you want to play later in the night. (PST, MST, ALASKA, HAWAII, ARIZONA)
