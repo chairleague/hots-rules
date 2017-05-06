@@ -82,7 +82,7 @@ Teams that repeatedly act disrespectful will be disbanded. There really is no re
 
 Chair League recommends you to add your Battle.net to your account. [Add your Battle.net to your account here](account_contact_methods_path). It's required to join a team.
 
-It is important to note that you should have at least one Battle.net handle attached to your account. Players need this information in order for players to invite each other to matches.
+It is important to note that you should have at least one Battle.net handle attached to your account. Players need this information in order for players to invite each other to matches. Your Battle.net tag will be displayed publicly on Chair League.
 
 ## Heroes
 
