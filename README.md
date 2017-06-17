@@ -78,6 +78,8 @@ Teams who do not show up can be marked as no-shows after 10 minutes. If you are 
 
 After the match finishes, either team can return to the match page and record the winner.
 
+If the match is recorded incorrectly, please contact paul@superjova.com to get it undone.
+
 ## Teams
 
 ### Expected Behavior
