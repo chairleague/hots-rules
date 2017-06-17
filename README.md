@@ -82,6 +82,14 @@ If the match is recorded incorrectly, please contact paul@superjova.com to get i
 
 ## Teams
 
+### Leagues
+
+Teams can play in multiple leagues at the same time without creating a new squad. Your team can play in both the Tuesday and Thursday night leagues if you find yourself that hungry for some Chair League.
+
+### Roster Cap
+
+Teams have an 8 player roster cap. This adds a responsibility of keeping an active roster to managing your team. Roster caps also make competition easier as you now can see who you may be playing when matched each week with an opponent.
+
 ### Expected Behavior
 
 Chair League is a recreational league and expects its players to behave accordingly. At the end of the day, we want to create a fun and positive environment to play in. Sportmanship is expected on and off the court. If you do happen to get triggered, grab the nearest pillow and scream into it. Take a deep breath. There's always next week.
