@@ -38,6 +38,8 @@ Matches can be rescheduled between two teams. If a team will not be able to make
 
 Each league consists of many divisions. Chair League divisions vary in competitiveness. When signing up for a season, divisions will be ordered by most competitive to least competitive. Choose a division not based on indivudual skill, but by skill as a team. Currently, there is no way to change divisions mid-season.
 
+All divisions are open to anyone. However, there is a restriction on Division 3. **If you have ever been ranked Masters or higher during any Hero or Team League season, you are not allowed to compete in Division 3.**
+
 ### Standings
       
 Division standings are ordered by points. Teams earn points only in their weekly division match. Wins will reward +3 points while losses will not reward any points.
