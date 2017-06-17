@@ -1,4 +1,6 @@
-# Official Rules (June 2017)
+# Official Rules
+
+As of June 2017
 
 ## League Play
 
