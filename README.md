@@ -4,7 +4,7 @@
 
 ### Weekly Matches
       
-Matches are scheduled Monday through Friday nights each week of a season. Active teams will receive 1 series with evenly matched opponents each week. Schedules come out the Friday before each week. Matches that are not completed on the website by the time the scheduler runs will be deleted. A team can turn off their schedules at any time. To do so, [visit your team's leagues page](account_team_leagues_path). It can be turned back on when your team is ready to be scheduled again.
+Matches are scheduled Monday through Friday nights each week of a season. Active teams will receive 1 series with evenly matched opponents each week. Schedules come out the Friday before each week. Matches that are not completed on the website by the time the scheduler runs will be deleted. A team can turn off their schedules at any time. To do so, [visit your team's leagues page](https://play.chairleague.com/account/teams). It can be turned back on when your team is ready to be scheduled again.
 
 ### Substitutions
 
@@ -98,7 +98,7 @@ Teams that repeatedly act disrespectful will be disbanded. There really is no re
 
 ### Battle.net
 
-Chair League recommends you to add your Battle.net to your account. [Add your Battle.net to your account here](account_contact_methods_path). It's required to join a team.
+Chair League recommends you to add your Battle.net to your account. [Add your Battle.net to your account here](https://play.chairleague.com/account/contact_methods). It's required to join a team.
 
 It is important to note that you should have at least one Battle.net handle attached to your account. Players need this information in order for players to invite each other to matches. Your Battle.net tag will be displayed publicly on Chair League.
 
@@ -106,10 +106,10 @@ It is important to note that you should have at least one Battle.net handle atta
 
 ### Status
 
-[View Hero Status here](heroes_path). Generally, only heroes with game breaking bugs are banned. Heroes are available upon release.
+[View Hero Status here](https://play.chairleague.com/heroes). Generally, only heroes with game breaking bugs are banned. Heroes are available upon release.
 
 ## Maps
 
 ### Status
 
-[View Map Status here](maps_path).
+[View Map Status here](https://play.chairleague.com/maps).
