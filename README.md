@@ -6,7 +6,25 @@ As of June 2017
 
 ### Weekly Matches
       
-Matches are scheduled Monday through Friday nights each week of a season. Active teams will receive 1 series with evenly matched opponents each week. Schedules come out the Friday before each week. Matches that are not completed on the website by the time the scheduler runs will be deleted. A team can turn off their schedules at any time. To do so, [visit your team's leagues page](https://play.chairleague.com/account/teams). It can be turned back on when your team is ready to be scheduled again.
+Pick the available night of the week for your team to compete.  Whether you throw down on Thursday or take up arms on Tuesday, active teams will receive 1 series with evenly matched opponents each week on your chosen night. Schedules come out the Friday before each week. Matches that are not completed on the website by the time the scheduler runs will be deleted, so make sure to post your results! A team can turn off their schedules at any time. To do so, [visit your team's leagues page](https://play.chairleague.com/account/teams). It can be turned back on when your team is ready to be scheduled again.
+
+### Competitive Map Pool
+
+Chairleague seeks to give you a fully immersive competitive experience.  To add to that only the most competitive maps are available for play, sorry Garden of Terror...  
+
+Each season a map pool will be established by the League.  For Season 1 of Tuesday/Thursday Night Heroes the map pool includes the following maps:
+
+Battlefield of Eternity
+Braxis Holdout
+Cursed Hollow
+Dragon Shire
+Infernal Shrines
+Sky Temple
+Tomb of the Spider Queen
+Towers of Doom
+Warhead Junction
+
+Study up, hone your strats, and be ready to throw down on these battlefeilds during your preferred night of Chairleague action.
 
 ### Substitutions
 
@@ -68,11 +86,15 @@ When teams earn rewards, the players who participated in the tournament are the 
 
 ### Home Team
 
-Responsible for hosting the match and inviting everyone.
+Responsible for hosting the match and inviting everyone.  If the match is being cast by a Chairleage caster, that caster will be an observer in the lobby and be set to "referee" status in the game lobby. 
+
+### Map Selection
+
+As each match is Best of 3 format, one team will have to select the initial battlefeild for the two teams to clash.  The Visiting team, as designated by the schecule, will be responsible for selecting the first map of the match.  To keep things balanced, the team that selects the map will have the second position during the draft, banning and picking second.  The map selected must be a map from that season's map pool.  Also let's not get too repetitive here, once a map cannot be selected if it has already been selected during the match--this isn't some other moba after all... 
 
 ### Drafting
 
-We will be using in-game draft tool for drafts.
+We will be using in-game draft tool, set to tournament draft mode, for drafts.
 
 ### Tardy Policy
 
