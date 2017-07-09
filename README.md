@@ -136,6 +136,18 @@ It is important to note that you should have at least one Battle.net handle atta
 
 ## Maps
 
+The map pool consists of (9) battlegrounds. Each map may only be played (1) time per series. The battlegrounds available for play are as follows: 
+
+Battlefield of Eternity
+Braxis Holdout
+Cursed Hollow
+Dragon Shire
+Infernal Shrines
+Sky Temple
+Tomb of the Spider Queen
+Towers of Doom
+Warhead Junction
+
 ### Status
 
 [View Map Status here](https://www.chairleague.com/maps/enabled).
