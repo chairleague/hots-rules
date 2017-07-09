@@ -14,15 +14,17 @@ Chairleague seeks to give you a fully immersive competitive experience.  To add 
 
 Each season a map pool will be established by the League.  For Season 1 of Tuesday/Thursday Night Heroes the map pool includes the following maps:
 
-Battlefield of Eternity
-Braxis Holdout
-Cursed Hollow
-Dragon Shire
-Infernal Shrines
-Sky Temple
-Tomb of the Spider Queen
-Towers of Doom
-Warhead Junction
+- Battlefield of Eternity
+- Braxis Holdout
+- Cursed Hollow
+- Dragon Shire
+- Infernal Shrines
+- Sky Temple
+- Tomb of the Spider Queen
+- Towers of Doom
+- Warhead Junction
+
+[View Map Pool Here](https://www.chairleague.com/maps/enabled)
 
 Study up, hone your strats, and be ready to throw down on these battlefeilds during your preferred night of Chairleague action.
 
