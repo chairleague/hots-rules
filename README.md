@@ -6,7 +6,29 @@ As of June 2017
 
 ### Weekly Matches
       
-Matches are scheduled Monday through Friday nights each week of a season. Active teams will receive 1 series with evenly matched opponents each week. Schedules come out the Friday before each week. Matches that are not completed on the website by the time the scheduler runs will be deleted. A team can turn off their schedules at any time. To do so, [visit your team's leagues page](https://play.chairleague.com/account/teams). It can be turned back on when your team is ready to be scheduled again.
+Pick the available night of the week for your team to compete.  Whether you throw down on Thursday or take up arms on Tuesday, active teams will receive 1 series with evenly matched opponents each week on your chosen night. Schedules come out the Friday before each week. Matches that are not completed on the website by the time the scheduler runs will be deleted, so make sure to post your results! A team can turn off their schedules at any time. To do so, [visit your team's leagues page](https://www.chairleague.com/account/teams). It can be turned back on when your team is ready to be scheduled again.
+
+### Competitive Map Pool
+
+Chairleague seeks to give you a fully immersive competitive experience.  To add to that only the most competitive maps are available for play, sorry Garden of Terror...  
+
+Each season a map pool will be established by the League.  For Season 1 of Tuesday/Thursday Night Heroes the map pool includes the following maps:
+
+- Battlefield of Eternity
+- Braxis Holdout
+- Cursed Hollow
+- Dragon Shire
+- Infernal Shrines
+- Sky Temple
+- Tomb of the Spider Queen
+- Towers of Doom
+- Warhead Junction
+
+[View Map Pool Here](https://www.chairleague.com/maps/enabled)
+
+Each map may only be played (1) time per series.
+
+Study up, hone your strats, and be ready to throw down on these battlefeilds during your preferred night of Chairleague action.
 
 ### Substitutions
 
@@ -15,10 +37,6 @@ Matches require 4/5 players from your team to check in before each round can sta
 Substitutions can occur between rounds. A player who plays the first round is not required to play any more rounds during that match.
 
 You may not substitute players during draft. Once drafting has begun, the roster is locked. Beware, Abathur mains.
-
-### Team Schedules
-
-Teams are matched by rating and time available. [Team's can manage their preferred schedules here.](account_team_schedule_path) Currently, Chair League requires teams to select at least 3 days of the week they would prefer to play on. This is so we can guarantee there is a time both teams would be willing to play at.
       
 ### Team Timezones
 
@@ -68,11 +86,15 @@ When teams earn rewards, the players who participated in the tournament are the 
 
 ### Home Team
 
-Responsible for hosting the match and inviting everyone.
+Responsible for hosting the match and inviting everyone.  If the match is being cast by a Chairleage caster, that caster will be an observer in the lobby and be set to "referee" status in the game lobby. 
+
+### Map Selection
+
+As each match is Best of 3 format, one team will have to select the initial battlefeild for the two teams to clash.  The Visiting team, as designated by the schecule, will be responsible for selecting the first map of the match.  To keep things balanced, the team that selects the map will have the second position during the draft, banning and picking second.  The map selected must be a map from that season's map pool.  Also let's not get too repetitive here, once a map cannot be selected if it has already been selected during the match--this isn't some other moba after all... 
 
 ### Drafting
 
-We will be using in-game draft tool for drafts.
+We will be using in-game draft tool, set to tournament draft mode, for drafts.
 
 ### Tardy Policy
 
@@ -102,7 +124,7 @@ Teams that repeatedly act disrespectful will be disbanded. There really is no re
 
 ### Battle.net
 
-Chair League recommends you to add your Battle.net to your account. [Add your Battle.net to your account here](https://play.chairleague.com/account/contact_methods). It's required to join a team.
+Chair League recommends you to add your Battle.net to your account. [Add your Battle.net to your account here](https://www.chairleague.com/account/contact_methods). It's required to join a team.
 
 It is important to note that you should have at least one Battle.net handle attached to your account. Players need this information in order for players to invite each other to matches. Your Battle.net tag will be displayed publicly on Chair League.
 
@@ -110,10 +132,10 @@ It is important to note that you should have at least one Battle.net handle atta
 
 ### Status
 
-[View Hero Status here](https://play.chairleague.com/heroes). Generally, only heroes with game breaking bugs are banned. Heroes are available upon release.
+[View Hero Status here](https://www.chairleague.com/heroes/enabled). Generally, only heroes with game breaking bugs are banned. Heroes are available upon release.
 
 ## Maps
 
 ### Status
 
-[View Map Status here](https://play.chairleague.com/maps).
+[View Map Status here](https://www.chairleague.com/maps/enabled).
