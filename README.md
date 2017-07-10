@@ -48,15 +48,11 @@ A player who is playing in a league cannot join another team who plays in the sa
       
 ### Team Timezones
 
-Teams select timezones to play at. By default, timezones for all teams are Central Time. Timezones are used for both recruiting players and matchmaking.
+Teams select timezones to play at. By default, timezones for all teams are Central Time.
 
 - **Select Eeastern Time** if you want to play earlier in the night. (EST, INDIANA)
 - **Select Central Time** if you want to play in the middle of the night.
 - **Select Pacific Time** if you want to play later in the night. (PST, MST, ALASKA, HAWAII, ARIZONA)
-
-### Rescheduling
-
-Matches can be rescheduled between two teams. If a team will not be able to make the scheduled match time, they may submit a reschedule request to the other team. Reschedule requests can be found when viewing your match inside of your /account/team/matches page. Reschedule requests must be submitted before the proposed time. Reschedule requests do not need to be accepted by the other team, but it would be nice if the opposing team considered it. If no new time can be agreed upon, the original match time is the official start time.
 
 ## Divisions
 
