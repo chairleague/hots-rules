@@ -1,6 +1,6 @@
 # Official Rules
 
-As of June 2017
+As of July 2017
 
 ## League Play
 
@@ -37,6 +37,14 @@ Matches require 4/5 players from your team to check in before each round can sta
 Substitutions can occur between rounds. A player who plays the first round is not required to play any more rounds during that match.
 
 You may not substitute players during draft. Once drafting has begun, the roster is locked. Beware, Abathur mains.
+
+### Player on Multiple Teams
+
+Players can join and play with multiple teams.
+
+A player who is playing in a league cannot sub for another team in that league.
+
+A player who is playing in a league cannot join another team who plays in the same league.
       
 ### Team Timezones
 
