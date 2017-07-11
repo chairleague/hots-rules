@@ -94,7 +94,13 @@ Responsible for hosting the match and inviting everyone.  If the match is being 
 
 ### Map Selection
 
-As each match is Best of 3 format, one team will have to select the initial battlefeild for the two teams to clash.  The Visiting team, as designated by the schecule, will be responsible for selecting the first map of the match.  To keep things balanced, the team that selects the map will have the second position during the draft, banning and picking second.  The map selected must be a map from that season's map pool.  Also let's not get too repetitive here, once a map cannot be selected if it has already been selected during the match--this isn't some other moba after all... 
+As each match is Best of 3 format, one team will have to select the initial battlefeild for the two teams to clash.  The Home team, as designated by the schecule, will be responsible for selecting the first map of the match.  To keep things balanced, the team that selects the map will have the second position during the draft, banning and picking second.  Matches will follow the following order:
+
+- Game 1: Home Team selects Map, Visiting Team has first Draft pick.
+- Game 2: Visiting Team selects Map, Home Team has first Draft pick.
+- Game 3: Home Team selects Map, Visiting Team has First Draft pick.
+
+The map selected must be a map from that season's map pool.  Also let's not get too repetitive here, a map cannot be selected if it has already been selected during the match--this isn't some other moba after all... 
 
 ### Drafting
 
