@@ -2,17 +2,31 @@
 
 As of July 2017
 
+## Table of Contents
+
+[League Play](#league-play)
+
+[Divisions](#divisions)
+
+[Tournaments](#tournaments)
+
+[Matches](#matches)
+
+[Teams](#teams)
+
+[Heroes](#heroes)
+
 ## League Play
 
 ### Weekly Matches
       
-Pick the available night of the week for your team to compete.  Whether you throw down on Thursday or take up arms on Tuesday, active teams will receive 1 series with evenly matched opponents each week on your chosen night. Schedules come out the Friday before each week. Matches that are not completed on the website by the time the scheduler runs will be deleted, so make sure to post your results! A team can turn off their schedules at any time. To do so, [visit your team's leagues page](https://www.chairleague.com/account/teams). It can be turned back on when your team is ready to be scheduled again.
+Pick the available night of the week for your team to compete.  Whether you throw down on Thursday or take up arms on Tuesday, active teams will play a best of 3 series against an evenly matched opponent each week on the chosen night. Schedules come out the Friday before each week. Matches that are not completed on the website by the time the scheduler runs will be deleted, so make sure to post your results! A team can disable match scheduling at any time by [visiting your team's leagues page](https://www.chairleague.com/account/teams). Scheduling can be reenabled whenever your team is ready to play again.
 
 ### Competitive Map Pool
 
-Chairleague seeks to give you a fully immersive competitive experience.  To add to that only the most competitive maps are available for play, sorry Garden of Terror...  
+Chair League seeks to give you a fully immersive competitive experience.  To add to that only the most competitive maps are available for play, sorry Garden of Terror...  
 
-Each season a map pool will be established by the League.  For Season 1 of Tuesday/Thursday Night Heroes the map pool includes the following maps:
+The league establishes a map pool for each season. The map pool for Season 1 of Tuesday/Thursday Night Heroes includes the following maps:
 
 - Battlefield of Eternity
 - Braxis Holdout
@@ -26,41 +40,37 @@ Each season a map pool will be established by the League.  For Season 1 of Tuesd
 
 [View Map Pool Here](https://www.chairleague.com/maps/enabled)
 
-Each map may only be played (1) time per series.
-
-Study up, hone your strats, and be ready to throw down on these battlefeilds during your preferred night of Chairleague action.
+Study up, hone your strats, and be ready to throw down on these battlefields on your preferred night of Chair League action.
 
 ### Substitutions
 
-Matches require 4/5 players from your team to check in before each round can start. This allows your team so sub one player not from your team. The substition should follow division rules.
+Matches require four or five players from your team to check in before each round can start. Teams may sub in one non-rostered player, so long as that player is eligible to play in that league (see [Player on Multiple Teams](#player-on-multiple-teams) and [Selecting a Division](#selecting-a-division)).
 
-Substitutions can occur between rounds. A player who plays the first round is not required to play any more rounds during that match.
+Substitutions can occur in between rounds. A player who plays in any round is not required to play in any other rounds in the series. 
 
-You may not substitute players during draft. Once drafting has begun, the roster is locked. Beware, Abathur mains.
+Substitutions may not happen during or after draft. Once drafting has begun, the roster is locked. Beware, Abathur mains.
 
 ### Player on Multiple Teams
 
-Players can join and play with multiple teams.
+Players can join and play on multiple teams in different divisions.
 
-A player who is playing in a league cannot sub for another team in that league.
-
-A player who is playing in a league cannot join another team who plays in the same league.
+A player who is playing in a league cannot join or sub for another team in the same league.
       
 ### Team Timezones
 
-Teams select timezones to play at. By default, timezones for all teams are Central Time.
+Teams select timezones to play in. By default, timezones for all teams are Central Time.
 
-- **Select Eeastern Time** if you want to play earlier in the night. (EST, INDIANA)
-- **Select Central Time** if you want to play in the middle of the night.
-- **Select Pacific Time** if you want to play later in the night. (PST, MST, ALASKA, HAWAII, ARIZONA)
+- **Select Eastern Time** if you want to play earlier in the evening. (EST, INDIANA)
+- **Select Central Time** if you want to play in the middle of the evening.
+- **Select Pacific Time** if you want to play later in the evening. (PST, MST, ALASKA, HAWAII, ARIZONA)
 
 ## Divisions
 
 ### Selecting a Division
 
-Each league consists of many divisions. Chair League divisions vary in competitiveness. When signing up for a season, divisions will be ordered by most competitive to least competitive. Choose a division not based on indivudual skill, but by skill as a team. Currently, there is no way to change divisions mid-season.
+Each league consists of many divisions, ordered by competitiveness, with Division 1 having the highest level of competition. Choose a division not based on indivudual skill, but by skill as a team. Currently, there is no way to change divisions mid-season.
 
-All divisions are open to anyone. However, there is a restriction on Division 3. **If you have ever been ranked Masters or higher during any Hero or Team League season, you are not allowed to compete in Division 3.**
+**Players who have achieved Master or higher in any Hero or Team League season are ineligible to compete in Division 3.** Aside from this restriction, all divisions are open to anyone.
 
 ### Standings
       
@@ -82,29 +92,29 @@ Tournament seeds are determined upon team rating. Tie-breakers are broken by who
 
 ### Rewards
 
-Rewards in tournaments unlock as more teams sign up. The rewards that can be earned from a tournament will differ based on the competitiveness, or division, of the tournament. More rewards will be given to Pro Division teams than in Division 3.
+Rewards in tournaments unlock as more teams sign up. The rewards that can be earned from a tournament will differ based on the competitiveness, or division, of the tournament. More rewards will be given to Division 1 teams than Division 3 teams.
 
-When teams earn rewards, the players who participated in the tournament are the only ones who are granted rewards. Those players can [redeem their prizes in their account](account_prizes_path).
+Only players who participated in a tournament are granted rewards for that tournament. Those players can [redeem their prizes in their account page](account_prizes_path).
 
 ## Matches
 
 ### Home Team
 
-Responsible for hosting the match and inviting everyone.  If the match is being cast by a Chairleage caster, that caster will be an observer in the lobby and be set to "referee" status in the game lobby. 
+The Home team is responsible for hosting the match and inviting everyone.  If the match is being casted, that caster should be added to the lobby as an observer and set to "referee" status. 
 
 ### Map Selection
 
-As each match is Best of 3 format, one team will have to select the initial battlefeild for the two teams to clash.  The Home team, as designated by the schecule, will be responsible for selecting the first map of the match.  To keep things balanced, the team that selects the map will have the second position during the draft, banning and picking second.  Matches will follow the following order:
+As each match is Best of 3 format, one team will have to select the initial battlefield for the two teams to clash.  The Home team, as designated by the schedule, will be responsible for selecting the first map of the match. The Away team will thus have the first pick in the draft. This then alternates each game, as such:
 
 - Game 1: Home Team selects Map, Visiting Team has first Draft pick.
 - Game 2: Visiting Team selects Map, Home Team has first Draft pick.
 - Game 3: Home Team selects Map, Visiting Team has First Draft pick.
 
-The map selected must be a map from that season's map pool.  Also let's not get too repetitive here, a map cannot be selected if it has already been selected during the match--this isn't some other moba after all... 
+The map selected must be from the [map pool](#competitive-map-pool) for the season. Each map may only be played once per series. 
 
 ### Drafting
 
-We will be using in-game draft tool, set to tournament draft mode, for drafts.
+Use the in-game draft tool, set to tournament draft mode, for drafting.
 
 ### Tardy Policy
 
@@ -128,24 +138,14 @@ Teams have an 8 player roster cap. This adds a responsibility of keeping an acti
 
 ### Expected Behavior
 
-Chair League is a recreational league and expects its players to behave accordingly. At the end of the day, we want to create a fun and positive environment to play in. Sportmanship is expected on and off the court. If you do happen to get triggered, grab the nearest pillow and scream into it. Take a deep breath. There's always next week.
-
-Teams that repeatedly act disrespectful will be disbanded. There really is no reason for it. Buy more pillows.
+Chair League is a recreational league and expects its players to behave accordingly. At the end of the day, we want to create a fun and positive environment to play in. Sportmanship is expected both ingame and out. Teams that repeatedly act disrespectful will be disbanded.
 
 ### Battle.net
 
-Chair League recommends you to add your Battle.net to your account. [Add your Battle.net to your account here](https://www.chairleague.com/account/contact_methods). It's required to join a team.
-
-It is important to note that you should have at least one Battle.net handle attached to your account. Players need this information in order for players to invite each other to matches. Your Battle.net tag will be displayed publicly on Chair League.
+Players must add their Battle.net tags to their accounts in order to join a team. Tags are displayed publicly on the Chair League site. [Add your Battle.net tag to your account here](https://www.chairleague.com/account/user/contact_methods).
 
 ## Heroes
 
 ### Status
 
-[View Hero Status here](https://www.chairleague.com/heroes/enabled). Generally, only heroes with game breaking bugs are banned. Heroes are available upon release.
-
-## Maps
-
-### Status
-
-[View Map Status here](https://www.chairleague.com/maps/enabled).
+Generally, only heroes with game breaking bugs are banned. Heroes are available upon release. [View Hero Status here](https://www.chairleague.com/heroes/enabled). 
