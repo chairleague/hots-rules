@@ -142,7 +142,7 @@ Chair League is a recreational league and expects its players to behave accordin
 
 ### Battle.net
 
-Players must add their Battle.net tags to their accounts in order to join a team. Tags are displayed publicly on the Chair League site. [Add your Battle.net tag to your account here](https://www.chairleague.com/account/contact_methods).
+Players must add their Battle.net tags to their accounts in order to join a team. Tags are displayed publicly on the Chair League site. [Add your Battle.net tag to your account here](https://www.chairleague.com/account/user/contact_methods).
 
 ## Heroes
 
