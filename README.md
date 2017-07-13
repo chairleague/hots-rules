@@ -74,7 +74,12 @@ Each league consists of many divisions, ordered by competitiveness, with Divisio
 
 ### Standings
       
-Division standings are ordered by points. Teams earn points only in their weekly division match. A 2-0 win will reward +3 points. A 2-1 win will reward +2 points. A 1-2 loss will reward +1 point while 0-2 losses will not reward any points.
+Division standings are ordered by points. Teams earn points only in their weekly division match. Each map win in the match earns a team 1 point in the standings, with a bonus point being awarded for 2-0 sweep. This means the following match results award the following points:
+
+2-0 = 3 pts
+2-1 = 2 pts
+1-2 = 1 pts
+0-2 = 0 pts
 
 ### Season Rating
 
