@@ -74,7 +74,7 @@ Each league consists of many divisions, ordered by competitiveness, with Divisio
 
 ### Standings
       
-Division standings are ordered by points. Teams earn points only in their weekly division match. Wins will reward +3 points while losses will not reward any points.
+Division standings are ordered by points. Teams earn points only in their weekly division match. A 2-0 win will reward +3 points. A 2-1 win will reward +2 points. A 1-2 loss will reward +1 point while 0-2 losses will not reward any points.
 
 ### Season Rating
 
