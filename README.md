@@ -4,7 +4,7 @@ As of July 2017
 
 ## Table of Contents
 
-[Format](#league-format)
+[Format](#format)
 
 [Matches](#matches)
 
