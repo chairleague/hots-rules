@@ -62,7 +62,7 @@ Entry into a league costs $3 per week of regular season play per team, regardles
 
 ### Check-in
 
-Four or five players from your team must check in on the match page for each round before the round can start. 
+Four or five players from your team must check in on the match page for each round before the round can start. **Matches cannot be reported properly if players do not check in, so be sure to remember to do this before *each* round!**
 
 ### Tardy Policy
 
