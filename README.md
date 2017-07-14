@@ -18,7 +18,7 @@ Teams play a best of 3 series against an evenly matched opponent each week on th
 
 ### Scheduling
       
-Match schedules are released the Friday before each week. A team can disable match scheduling at any time by [visiting your team's leagues page](https://www.chairleague.com/account/teams). Scheduling can be reenabled whenever your team is ready to play again.
+Match schedules are released five days before match day. A team can disable match scheduling at any time by [visiting your team's leagues page](https://www.chairleague.com/account/teams). Scheduling can be reenabled whenever your team is ready to play again.
 
 Be aware that **matches that are not recorded on the website by the time the scheduler runs will be deleted, so make sure to [post your results](#results)** promptly! Additionally, if there is an odd number of teams in a division on a certain week, one team will have a bye for that week.
 
@@ -50,7 +50,7 @@ Chair League establishes a map pool for each season. The map pool for Season 1 o
 
 ### Hero Status
 
-Generally, only heroes with significant bugs are banned, at Chair League's discretion. Heroes are available upon release.
+Generally, only heroes with significant and exploitable bugs are banned, at Chair League's discretion. Heroes are available upon release.
 
 [View Hero Status here](https://www.chairleague.com/heroes/enabled).
 
@@ -62,7 +62,7 @@ Entry into a league costs $3 per week of regular season play per team, regardles
 
 ### Check-in
 
-Four or five players from your team must check in on the match page for each round before the round can start. **Matches cannot be reported properly if players do not check in, so be sure to remember to do this before *each* round!**
+At least four players from your team must check in on the match page for each round before the round can start (see also [Substitutions](#substitutions)). **Matches cannot be reported properly if players do not check in, so be sure to remember to do this before *each* round!**
 
 ### Tardy Policy
 
@@ -74,11 +74,11 @@ If a match is being casted, the caster(s) should be added to the lobby and set t
 
 ### Substitutions
 
-Teams may sub in one non-rostered player for games, so long as that player is eligible to play in that league (see [Divisions](#divisions) and [Playing in Multiple Leagues](#playing-in-multiple-leagues-teams)). Substitutions can occur in between rounds - player who plays in any round is not required to play in any other rounds in the series. However, once drafting has begun, the roster is locked for that round.
+Teams may sub in one non-rostered player for games, so long as that player is eligible to play in that league (see [Divisions](#divisions) and [Playing in Multiple Leagues](#playing-in-multiple-leagues-teams)). Substitutions can occur in between rounds - player who plays in any round is not required to play in any other rounds in the series. However, substitutions cannot be made during or after the hero draft - once drafting has begun, the roster is locked for that round.
 
 ### Map Selection / Draft Order
 
-The Home team, as designated by the schedule, is responsible for selecting the map and hosting the lobby for the first match. The Away team will thus have the first pick in the draft. This then alternates each round, as such:
+The Home team, as designated by the schedule, is responsible for selecting the map and hosting the lobby for the first match. The Away team will thus have the first pick in the draft. This then alternates each round:
 
 - Game 1: Home team selects map, Away team has first draft pick.
 - Game 2: Away team selects map, Home team has first draft pick.
@@ -110,7 +110,7 @@ Roster changes may be made up until the 6th week of regular season play. After t
 
 ### Playoff Seeding
 
-Playoffs seeds are determined upon [team rating](#rating). Tie-breakers are broken by who signed up first for the tournament.
+Playoffs seeds are determined upon [team rating](#rating). Ties are broken by who signed up first for the tournament.
 
 ### Prizes
 
@@ -119,6 +119,10 @@ Success in a season may award prizes to teams. More prizes will be available as 
 Only players who participated in the playoffs are granted prizes. Those players can [redeem their prizes in their account page](account_prizes_path).
 
 ## Teams
+
+### Expected Behavior
+
+Chair League is a recreational league and expects its players to behave accordingly. Sportmanship is expected both ingame and out. Teams and/or players that repeatedly act disrespectful will be disqualified at Chair League's discretion.
 
 ### Roster Limits
 
@@ -132,20 +136,16 @@ Teams select timezones to play in. By default, timezones for all teams are Centr
 - **Select Central Time** if you want to play in the middle of the evening.
 - **Select Pacific Time** if you want to play later in the evening. (PST, MST, ALASKA, HAWAII, ARIZONA)
 
-### Team Rating
-
-During season play, teams acquire a rating that represents how they are doing relative to other teams, with higher rating indicating stronger performance. This rating is used to match teams against opponents of similar skill within the division. Rating increases with match wins and decreases with losses; the magnitude of change is dependent on the difference between the two teams' ratings. Rating can be viewed on a team's profile page. 
-
 ### Battle.net
 
 In order to join a team, players must add their Battle.net tags to their accounts. Tags are displayed publicly on the Chair League site. [Add your Battle.net tag to your account here](https://www.chairleague.com/account/user/contact_methods).
 
 ### Playing in Multiple Leagues / Teams
 
-Teams can play in multiple leagues in a season with the same roster. Moreover, players may join and play on multiple teams, provided the teams are in different leagues and/or divisions.
+Teams can play in multiple leagues in a season with the same roster. Moreover, players may join and play on multiple teams, provided the teams are in different leagues.
 
 A player who is playing in a league cannot join or sub for another team in the same league.
 
-### Expected Behavior
+### Team Rating
 
-Chair League is a recreational league and expects its players to behave accordingly. Sportmanship is expected both ingame and out. Teams that repeatedly act disrespectful will be disbanded at Chair League's discretion.
+During season play, teams acquire a rating that represents how they are doing relative to other teams, with higher rating indicating stronger performance. This rating is used to match teams against opponents of similar skill within the division. Rating increases with match wins and decreases with losses; the magnitude of change is dependent on the difference between the two teams' ratings. Rating can be viewed on a team's profile page. 
