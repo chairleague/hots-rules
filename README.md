@@ -70,7 +70,7 @@ Teams select timezones to play in. By default, timezones for all teams are Centr
 
 Each league consists of many divisions, ordered by competitiveness, with Division 1 having the highest level of competition. Choose a division not based on indivudual skill, but by skill as a team. Currently, there is no way to change divisions mid-season.
 
-**Players who have achieved Master or higher in any Hero or Team League season are ineligible to compete in Division 3.** Aside from this restriction, all divisions are open to anyone.
+**Players who have achieved Master or higher in any Hero or Team League season are ineligible to compete in Division 3.** As Chair League is designed to help players improve, a player who acheives the rank of Master or higher in either Hero League or Team League during a season of Chair League may continue to compete in that season, but may not transfer to another team or play in subsequent Division 3 seasons. Aside from this restriction, all divisions are open to anyone.
 
 ### Standings
       
