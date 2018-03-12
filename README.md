@@ -1,6 +1,6 @@
 # Official Rules
 
-As of July 2017
+As of March 2018
 
 ## Table of Contents
 
@@ -8,7 +8,7 @@ As of July 2017
 
 [Divisions](#divisions)
 
-[Tournaments](#tournaments)
+[Playoffs](#Playoffs)
 
 [Matches](#matches)
 
@@ -20,13 +20,13 @@ As of July 2017
 
 ### Weekly Matches
       
-Pick the available night of the week for your team to compete.  Whether you throw down on Thursday or take up arms on Tuesday, active teams will play a best of 3 series against an evenly matched opponent each week on the chosen night. Schedules come out the Friday before each week. Matches that are not completed on the website by the time the scheduler runs will be deleted, so make sure to post your results! A team can disable match scheduling at any time by [visiting your team's leagues page](https://www.chairleague.com/account/teams). Scheduling can be reenabled whenever your team is ready to play again.
+Pick the available night of the week for your team to compete. Whether you throw down on Thursday or take up arms on Tuesday, active teams will play a best of 3 series against opponents each week on the chosen night. Matches will start at the set time for the league you are in.  Matches that are not marked completed on the website within 48 hours will have both teams marked as no shows. Make sure to post your results each week!  A team can disable match scheduling at any time by [visiting your team's leagues page](https://www.chairleague.com/account/teams). Scheduling can be reenabled whenever your team is ready to play again.
 
 ### Competitive Map Pool
 
-Chair League seeks to give you a fully immersive competitive experience.  To add to that only the most competitive maps are available for play, sorry Garden of Terror...  
+Chair League seeks to give you a fully immersive competitive experience. To add to that only the most competitive maps are available for play, sorry Garden of Terror...
 
-The league establishes a map pool for each season. The map pool for Season 1 of Tuesday/Thursday Night Heroes includes the following maps:
+The league establishes a map pool for each season. The map pool for the Spring 2018 season of Tuesday/Thursday Night Heroes includes the following maps:
 
 - Battlefield of Eternity
 - Braxis Holdout
@@ -36,7 +36,7 @@ The league establishes a map pool for each season. The map pool for Season 1 of 
 - Sky Temple
 - Tomb of the Spider Queen
 - Towers of Doom
-- Warhead Junction
+- Volskaya Foundry
 
 [View Map Pool Here](https://www.chairleague.com/maps/enabled)
 
@@ -44,11 +44,11 @@ Study up, hone your strats, and be ready to throw down on these battlefields on 
 
 ### Substitutions
 
-Matches require four or five players from your team to check in before each round can start. Teams may sub in one non-rostered player, so long as that player is eligible to play in that league (see [Player on Multiple Teams](#player-on-multiple-teams) and [Selecting a Division](#selecting-a-division)).
+Matches require four of five players from your team to check in before each round can start.  Teams may sub in one non-rostered player, so long as that player is eligible to play in that league (see [Player on Multiple Teams](#player-on-multiple-teams) below).
 
 Substitutions can occur in between rounds. A player who plays in any round is not required to play in any other rounds in the series. 
 
-Substitutions may not happen during or after draft. Once drafting has begun, the roster is locked. Beware, Abathur mains.
+Substitutions may not happen during or after draft. Once drafting has begun, the roster is locked.
 
 ### Player on Multiple Teams
 
@@ -56,45 +56,33 @@ Players can join and play on multiple teams in different divisions.
 
 A player who is playing in a league cannot join or sub for another team in the same league.
       
-### Team Timezones
-
-Teams select timezones to play in. By default, timezones for all teams are Central Time.
-
-- **Select Eastern Time** if you want to play earlier in the evening. (EST, INDIANA)
-- **Select Central Time** if you want to play in the middle of the evening.
-- **Select Pacific Time** if you want to play later in the evening. (PST, MST, ALASKA, HAWAII, ARIZONA)
 
 ## Divisions
 
 ### Selecting a Division
 
-Each league consists of many divisions, ordered by competitiveness, with Division 1 having the highest level of competition. Choose a division not based on indivudual skill, but by skill as a team. Currently, there is no way to change divisions mid-season.
+Each league consists of 2 divisions. Choose a division not based on indivudual skill, but by skill as a team. Currently, there is no way to change divisions mid-season.
 
-**Players who have achieved Master or higher in any Hero or Team League season are ineligible to compete in Division 3.** Aside from this restriction, all divisions are open to anyone.
-
-### Standings
-      
-Division standings are ordered by points. Teams earn points only in their weekly division match. Wins will reward +3 points while losses will not reward any points.
+Teams with 2 or more players that have placed Master or higher in any Hero or Team League season are asked to play in the competitive division.
 
 ### Season Rating
 
 During season play, team's will acquire a seasonal rating. This can be viewed in the standing of the division. The rating represents how a team is doing relative to other teams. Higher ratings show higher performance. Chair League uses this rating to match your team against opponents of similar skill level within your division. Rating gained or loss depends on the outcome of the weekly match and the magnitude is related to the rating difference between the two teams.
 
-## Tournaments
+## Playoffs
 
 ### Divisions
 
-Tournaments are separated by divisions. When a team joins a tournament, they will be joined by teams in the same division.
+Playoffs are separated by divisions. When a team joins a playoff, they will be joined by teams in the same division.
 
 ### Seeding
 
-Tournament seeds are determined upon team rating. Tie-breakers are broken by who signed up first for the tournament.
+Tournament seeds are determined upon team rating. Tie-breakers are broken by a tie breaker game, when time is available.  When time is not available it will be chosen by who signed up first for the playoffs.
 
-### Rewards
+### Prizes
 
-Rewards in tournaments unlock as more teams sign up. The rewards that can be earned from a tournament will differ based on the competitiveness, or division, of the tournament. More rewards will be given to Division 1 teams than Division 3 teams.
+Teams who play in the competitive division are eligible for prizes.
 
-Only players who participated in a tournament are granted rewards for that tournament. Those players can [redeem their prizes in their account page](account_prizes_path).
 
 ## Matches
 
@@ -124,7 +112,7 @@ Teams who do not show up can be marked as no-shows after 10 minutes. If you are 
 
 After the match finishes, either team can return to the match page and record the winner.
 
-If the match is recorded incorrectly, please contact paul@superjova.com to get it undone.
+If the match is recorded incorrectly, please contact paul@chairleague.com to get it undone.
 
 ## Teams
 
@@ -138,7 +126,12 @@ Teams have an 8 player roster cap. This adds a responsibility of keeping an acti
 
 ### Expected Behavior
 
-Chair League is a recreational league and expects its players to behave accordingly. At the end of the day, we want to create a fun and positive environment to play in. Sportmanship is expected both ingame and out. Teams that repeatedly act disrespectful will be disbanded.
+Chair League is a recreational league and expects its players to behave accordingly. At the end of the day, we want to create a fun and positive environment to play in. Sportsmanship is expected both ingame and out. Teams that repeatedly act disrespectful will be disbanded.
+
+### Cheating
+
+Players found to be cheating will be reviewed by the Chair League staff on a case by case basis.  Cheating can be reported by sending an email to zack@chairleague.com.
+
 
 ### Battle.net
 
