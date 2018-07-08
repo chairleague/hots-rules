@@ -50,6 +50,8 @@ Substitutions can occur in between rounds. A player who plays in any round is no
 
 Substitutions may not happen during or after draft. Once drafting has begun, the roster is locked.
 
+Should a player disconnect during draft bit before the completion of draft,and be unable to reconnecr due to extenuating circumstances, a substitute may be appointed so that the match may be played.  In the event of such a disconnect, the non-disconnecting team will have the option of selecting an alternate map amd re-drafting with the substitute in the game lobby or proceeding with the draft manually and playing the map with the heroes originally drafted.
+
 ### Player on Multiple Teams
 
 Players can join and play on multiple teams in different divisions.
